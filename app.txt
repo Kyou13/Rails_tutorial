@@ -1,0 +1,78 @@
+Adobe Acrobat Reader DC.app
+Adobe Creative Cloud
+Adobe Lightroom CC
+Adobe Lightroom Classic CC
+Adobe Photoshop CC 2018
+AnyDesk.app
+App Store.app
+AppCleaner.app
+Automator.app
+Backup and Sync.app
+BetterTouchTool.app
+Bose Updater.app
+Calculator.app
+Calendar.app
+Canon MF Utilities
+Chess.app
+Chrome Remote Desktop Host Uninstaller.app
+Clipy.app
+Contacts.app
+CotEditor.app
+DB Browser for SQLite.app
+DVD Player.app
+Dashboard.app
+Dictionary.app
+Discord.app
+Docker.app
+Dropbox.app
+Evernote.app
+FaceTime.app
+Firefox.app
+Font Book.app
+GarageBand.app
+Gitter.app
+Google Chrome.app
+GoogleJapaneseInput.localized
+Image Capture.app
+IntelliJ IDEA.app
+Keynote.app
+LINE.app
+Launchpad.app
+MOT17-02-DPM
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mini Calendar.app
+Mission Control.app
+Notes.app
+Numbers.app
+Pages.app
+Photo Booth.app
+Photos.app
+Postico.app
+Preview.app
+QuickTime Player.app
+Reminders.app
+Safari.app
+Sequel Pro.app
+Siri.app
+Skype.app
+Slack.app
+Stand.app
+Stickies.app
+System Preferences.app
+TeX
+TextEdit.app
+The Unarchiver.app
+Time Machine.app
+TotalSpaces2.app
+TweetDeck.app
+Utilities
+VLC.app
+XP-Qt.app
+iBooks.app
+iMovie.app
+iTunes.app
