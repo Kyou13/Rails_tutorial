@@ -32,13 +32,20 @@ rails g scaffold Micropost content:text user_id:integer //単数
 validates :content, length: {maximum: 140}, presence: true //複数
 ```    
 
+Controller 複数
+model 単数
 ### heroku の流れ
 ```aidl
 heroku create <app name>
 git add remote heroku 
 
 ```
+- DBリセット
+```
+heroku pg:reset DATABASE
+```
     
 ## TODO    
 - Requestsで完結に書く
 - filterで画像つき
+- user_url(@user) でなぜ
